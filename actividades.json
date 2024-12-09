@@ -1,0 +1,143 @@
+[
+    {
+      "id_actividad": "A001",
+      "lugar": "Playa Blanca, México",
+      "fecha": "2024-12-01",
+      "estado": "Disponible",
+      "detalles_actividad": {
+        "organizador": "Aventura Marina",
+        "tipo_actividad": "Snorkeling",
+        "equipos": [
+          {
+            "id_equipo": "E001",
+            "tipo": "Máscara de buceo",
+            "cantidad": 10,
+            "tamaño": ["Adulto", "Niño"]
+          },
+          {
+            "id_equipo": "E002",
+            "tipo": "Aletas",
+            "cantidad": 15,
+            "tamaño": ["Adulto"]
+          }
+        ]
+      },
+      "participantes": [
+        {"nombre": "Juan Pérez", "edad": 25, "nivel": "Principiante"},
+        {"nombre": "Ana López", "edad": 30, "nivel": "Intermedio"}
+      ]
+    },
+    {
+      "id_actividad": "A002",
+      "lugar": "Isla del Sol, Ecuador",
+      "fecha": "2024-12-03",
+      "estado": "En Progreso",
+      "detalles_actividad": {
+        "organizador": "Exploradores del Océano",
+        "tipo_actividad": "Buceo",
+        "equipos": [
+          {
+            "id_equipo": "E003",
+            "tipo": "Tanque de oxígeno",
+            "cantidad": 8,
+            "capacidad_litros": 12
+          },
+          {
+            "id_equipo": "E004",
+            "tipo": "Trajes de neopreno",
+            "cantidad": 10,
+            "tamaño": ["S", "M", "L"]
+          }
+        ]
+      },
+      "participantes": [
+        {"nombre": "Carlos Martínez", "edad": 35, "nivel": "Avanzado"},
+        {"nombre": "Laura Gómez", "edad": 28, "nivel": "Intermedio"}
+      ]
+    },
+    {
+      "id_actividad": "A003",
+      "lugar": "Gran Barrera de Coral, Australia",
+      "fecha": "2024-12-05",
+      "estado": "Completado",
+      "detalles_actividad": {
+        "organizador": "Reef Adventures",
+        "tipo_actividad": "Kayak",
+        "equipos": [
+          {
+            "id_equipo": "E005",
+            "tipo": "Kayaks dobles",
+            "cantidad": 5,
+            "color": ["Rojo", "Amarillo"]
+          },
+          {
+            "id_equipo": "E006",
+            "tipo": "Chalecos salvavidas",
+            "cantidad": 12,
+            "tamaño": ["Adulto", "Niño"]
+          }
+        ]
+      },
+      "participantes": [
+        {"nombre": "Roberto Sánchez", "edad": 40, "nivel": "Intermedio"},
+        {"nombre": "Marta Díaz", "edad": 22, "nivel": "Principiante"}
+      ]
+    },
+    {
+      "id_actividad": "A004",
+      "lugar": "Lagos de Plitvice, Croacia",
+      "fecha": "2024-12-04",
+      "estado": "En Progreso",
+      "detalles_actividad": {
+        "organizador": "Nature Sports",
+        "tipo_actividad": "Stand Up Paddle",
+        "equipos": [
+          {
+            "id_equipo": "E007",
+            "tipo": "Tablas de paddle",
+            "cantidad": 6,
+            "longitud_cm": 350
+          },
+          {
+            "id_equipo": "E008",
+            "tipo": "Remo ajustable",
+            "cantidad": 6,
+            "material": "Fibra de carbono"
+          }
+        ]
+      },
+      "participantes": [
+        {"nombre": "Lucía Ramírez", "edad": 26, "nivel": "Principiante"},
+        {"nombre": "Pedro Hernández", "edad": 32, "nivel": "Avanzado"}
+      ]
+    },
+    {
+      "id_actividad": "A005",
+      "lugar": "Maldivas",
+      "fecha": "2024-12-02",
+      "estado": "Disponible",
+      "detalles_actividad": {
+        "organizador": "Ocean Dreams",
+        "tipo_actividad": "Pesca Deportiva",
+        "equipos": [
+          {
+            "id_equipo": "E009",
+            "tipo": "Cañas de pescar",
+            "cantidad": 8,
+            "longitud_m": 2.1
+          },
+          {
+            "id_equipo": "E010",
+            "tipo": "Cajas de aparejos",
+            "cantidad": 4,
+            "contenido": ["Anzuelos", "Señuelos", "Líneas"]
+          }
+        ]
+      },
+      "participantes": [
+        {"nombre": "Diego Torres", "edad": 45, "nivel": "Avanzado"},
+        {"nombre": "Sofía Vega", "edad": 29, "nivel": "Intermedio"}
+      ]
+    }
+  ]
+  
